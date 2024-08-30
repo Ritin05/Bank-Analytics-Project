@@ -32,4 +32,7 @@ This visualization helps in comparing the distribution of various loan statuses 
 5. Home ownership Vs last payment date stats
 This KPI compares the last payment dates of customers across different home ownership statuses, providing insights into payment behaviors in relation to home ownership.
 
+![Excel Dashboard](https://github.com/user-attachments/assets/a51cd80b-5c52-40f1-b866-9ae7c548677d)
+
+
 
