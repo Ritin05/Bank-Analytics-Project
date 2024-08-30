@@ -43,7 +43,8 @@ This KPI compares the last payment dates of customers across different home owne
 ![Tableau Dashboard](https://github.com/user-attachments/assets/1d6b4f75-b5e6-4ade-941c-a8ffa16812b0)
 
 # Sql Work 
-![Sql Dashboard](https://github.com/user-attachments/assets/f518aad1-af8a-452d-9a77-a0410dd017ef)
+![Sql Dashboard](https://github.com/user-attachments/assets/6e089aa4-4c12-48bc-a236-369a45b53411)
+
 
 
 
