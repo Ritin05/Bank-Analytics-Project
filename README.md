@@ -1,7 +1,7 @@
 # Bank-Analytics-Project
 End to End Project Information
 
-1 .Data Preparation
+# 1 .Data Preparation
 
 1. Merging Datasets: Combined Finance_1 and Finance_2 using the common ID column.
    
@@ -16,7 +16,7 @@ End to End Project Information
 5. Data Consistency: Ensured consistency in data formats and units across the dataset.
 Challenging process in Issue_d so we are using First Extract the Month and Date then use concatenate function
 
-2. List of KPI’s
+# 2. List of KPI’s
 1. Year wise loan amount Stats
 Our Analysis Suggests that The Total Loan amount was increased year by year.&2011 boosts the highest loan amount while 2007 reflects the lowest amount
 
