@@ -35,14 +35,14 @@ This KPI compares the last payment dates of customers across different home owne
 # Excel Dashboard
 ![Excel Dashboard](https://github.com/user-attachments/assets/5953c86a-e4b0-4db7-a211-26fc342435a8)
 
-#Power BI Dashboard
+# Power BI Dashboard
 ![Power BI Dashboard](https://github.com/user-attachments/assets/d8f4cae2-b67c-454b-adf8-f713398c87ab)
 
 
-#Tableau Dashboard
+# Tableau Dashboard
 ![Tableau Dashboard](https://github.com/user-attachments/assets/1d6b4f75-b5e6-4ade-941c-a8ffa16812b0)
 
-#Sql Work 
+# Sql Work 
 ![Sql Dashboard](https://github.com/user-attachments/assets/f518aad1-af8a-452d-9a77-a0410dd017ef)
 
 
