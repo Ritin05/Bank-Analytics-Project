@@ -1,5 +1,6 @@
 # Bank-Analytics-Project
 End to End Project Information
+
 1 .Data Preparation
 
 1. Merging Datasets: Combined Finance_1 and Finance_2 using the common ID column.
