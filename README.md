@@ -18,10 +18,15 @@ Challenging process in Issue_d so we are using First Extract the Month and Date 
 
 # 2. List of KPI’s
 •	Year wise loan amount Stats Our Analysis Suggests that The Total Loan amount was increased year by year.&2011 boosts the highest loan amount while 2007 reflects the lowest amount
+
 •	Grade and sub grade wise revol_bal in this KPI analyzes Revol _Balances in Grade B are favorable compared to other grades. Actions should be taken regarding Grade G.
+
 •	Total Payment for Verified Status Vs Non Verified Status Our Analysis we predict that We need take an action on not verified accounts. Because these account going forward will create loss.
+
 •	State wise and last_credit_pull_d wise loan status in this KPI visualization helps in comparing the distribution of various loan statuses for each state. the loan status has changed over time, providing insights into trends and patterns related to credit pulls.
+
 •	Home ownership Vs last payment date stats in this KPI compares the last payment dates of customers across different home ownership statuses, providing insights into payment behaviors in relation to home ownership.
+
 Tools: Mysql, Excel, Tableau and Power BI
 
 # Excel Dashboard
