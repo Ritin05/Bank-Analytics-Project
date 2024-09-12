@@ -40,9 +40,13 @@ Tools: Mysql, Excel, Tableau and Power BI
 ![Tableau Dashboard](https://github.com/user-attachments/assets/1d6b4f75-b5e6-4ade-941c-a8ffa16812b0)
 
 # Sql Work 
-![Sql Dashboard](https://github.com/user-attachments/assets/6e089aa4-4c12-48bc-a236-369a45b53411)
-
-
-
-
-
+# Year wise loan amount Stats
+![KPI 1](https://github.com/user-attachments/assets/2ea5dfbb-dfc6-4df2-b68b-8950e92f8386)
+# Grade and sub grade wise revol_bal
+![kpi 2](https://github.com/user-attachments/assets/f058ed67-6f07-4722-b21c-eaa4eef9772b)
+# Total Payment for Verified Status Vs Non Verified Status
+![kpi 3](https://github.com/user-attachments/assets/fc12b8f0-f7be-4333-8190-24a34b9ea91c)
+# State wise and last_credit_pull_d wise loan status
+![kpi 4](https://github.com/user-attachments/assets/d478c760-9c4d-49c5-ace4-f70d438b4ee4)
+# Home ownership Vs last payment date stats
+![KPI 5](https://github.com/user-attachments/assets/a63c948d-5572-48ea-bf6a-79cb26662659)
