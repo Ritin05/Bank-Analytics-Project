@@ -39,7 +39,7 @@ Tools: Mysql, Excel, Tableau and Power BI
 # Tableau Dashboard
 ![Tableau Dashboard](https://github.com/user-attachments/assets/1d6b4f75-b5e6-4ade-941c-a8ffa16812b0)
 
-# Sql Work 
+# SQL Work 
 # Year wise loan amount Stats
 ![KPI 1](https://github.com/user-attachments/assets/2ea5dfbb-dfc6-4df2-b68b-8950e92f8386)
 # Grade and sub grade wise revol_bal
